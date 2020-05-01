@@ -11,7 +11,10 @@
 * Click the "Fork" button at the top right. This will create a fork of this project in your GitHub account.
 
 ## 4. Clone your fork locally
-* Open your fork and click the "Clone or download" button. Copy the URL - it should be of the format: "https://github.com/<your GitHub username>/wwcode-philly-open-source"
+* Open your fork and click the "Clone or download" button. Copy the URL - it should be of the format: 
+```
+https://github.com/<your GitHub username>/wwcode-philly-open-source
+```
 * Open a terminal on your computer and clone your fork using the URL you just copied:
 ```
 git clone <URL to your fork>
