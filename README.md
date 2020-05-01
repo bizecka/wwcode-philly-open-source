@@ -32,7 +32,7 @@ git checkout -b <name of your branch>
 * Commit your changes
 ```
 git add <file>
-git -m "your commit message"
+git commit -m "your commit message"
 ```
 * Push your changes to your fork on GitHub
 ```
